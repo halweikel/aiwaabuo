@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aisohlairo.protolambda.com/sitemap.xml
